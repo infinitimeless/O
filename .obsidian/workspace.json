@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07382cdb2a0557fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what about this one ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d94ff0c0629969b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fluuuuttte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is this Not pushed to Git ?.md",
+                "file": "Fluuuuttte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is this Not pushed to Git ?.md",
+                "file": "Fluuuuttte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is this Not pushed to Git ?.md"
+                "file": "Fluuuuttte.md"
               }
             }
           }
@@ -138,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,8 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9847b69cb664de3",
+  "active": "d94ff0c0629969b6",
   "lastOpenFiles": [
-    "Is this Not pushed to Git ?.md"
+    "what about this one ?.md",
+    "Fluuuuttte.md",
+    "Is this Not pushed to Git ?.md",
+    "Ceci est un test.md"
   ]
 }
