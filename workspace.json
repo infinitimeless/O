@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "ff17785edf7c7087",
+    "type": "split",
+    "children": [
+      {
+        "id": "744620f5080b572e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93a1fb2f98a29245",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26949ea91a8fb1db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7e5892b061df8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f004add38e0b7bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "3ffc9fe578bfa083",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SWOT templ",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9e4d875d665ba843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "162e763112870cc0",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cad330dec40e4807",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.50390243530273
+  },
+  "right": {
+    "id": "0fa0edb5ed3b75f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fb88017a5823ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a683c872eb80fea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "957b2b5e5109b351",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68b88025b3807c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "413e20c6dc312c1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5405a79be706ba23",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "68ae69218d49d288",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "74f143df5a52dc0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0a199729bffcc1f",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-kanban:Create new board": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "93a1fb2f98a29245",
+  "lastOpenFiles": [
+    "Ceci est un test.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/Main doc Benchmark  MAIA.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/Main Doc English Abstract and SWOT.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/SWOT MAIA.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Strengths.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Weaknesses.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Opportunity.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Threats.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIA Strat/MAIA Front & API.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIA Strat/Generalist.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIA Strat/ESN Boond.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/MAIA SWOT EXCALIDRAW.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIA Strat",
+    "1_LEGACY_HSTORIC_VAULT/PRODUCTIVITY/Prompt KB/Prompts&GPTs💻⚙️🤖💻⚙️🤖⚙️⚙️/Image Prompts/Black or White.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Screenshot 2024-06-15 at 21.13.39.png",
+    "1_LEGACY_HSTORIC_VAULT/PRODUCTIVITY/Prompt KB/Prompts&GPTs💻⚙️🤖💻⚙️🤖⚙️⚙️/Image Prompts",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Screenshot 2024-06-15 at 20.59.32.png",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Screenshot 2024-06-15 at 20.47.26.png",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Screenshot 2024-06-15 at 20.46.12.png",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT/Screenshot 2024-06-15 at 20.35.10.png",
+    "1_LEGACY_HSTORIC_VAULT/Daily Notes by year🧵🪡/2024/15-06-2024.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/SWOT/Untitled",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/Final main Doc/MAIAs SWOT",
+    "1_LEGACY_HSTORIC_VAULT/Template𝌭♻️🔰/SWOT (TEMPLATE).md",
+    "1_LEGACY_HSTORIC_VAULT/PRODUCTIVITY/Prompt KB/Prompts&GPTs💻⚙️🤖💻⚙️🤖⚙️⚙️/Deep Thinking Process Prompt.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/SWOT MAIA.md",
+    "0_New_VAULT/Doing/AREALTI _MAIA/Final Benchmark/Building Final Document/SWOT.md",
+    "1_LEGACY_HSTORIC_VAULT/Recettes🤤🤤🧑🏼‍🍳🧑🏼‍🍳🥘/Sucrées/Sasa Aux Framboises.md",
+    "1_LEGACY_HSTORIC_VAULT/𖡄💿💿⌗𖡄𖡄KB𖡄/🚫Old_NOTES 1/recette/Sasa aux Framboises.md",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/🐨🐨LOCALai🦴🦴/LMStudio/LMStudio Local Server Inference/LMStudio Local Server Inference test.md",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/🐨🐨LOCALai🦴🦴/LMStudio/LMStudio Local Server Inference/Environnement( envi)/Avec Python3.md",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/🐨🐨LOCALai🦴🦴/LMStudio/LMStudio Local Server Inference/Environnement( envi)/Avec Conda Anaconda en CLI.md",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/🐨🐨LOCALai🦴🦴/LMStudio/LMStudio Local Server Inference/Environnement( envi)/Create a virtual environment with virtualenv✅.md",
+    "1_LEGACY_HSTORIC_VAULT/New Ideas Or Projets/AI/Speech-To-Text/Assembly CLI Quick Guide.md",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/AGI/R&D/Architecture/AGI Framework.excalidraw.md",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/AGI/AGI CANVAS.canvas",
+    "0_New_VAULT/Doing/Human To Machine/Open Interpreter/Untitled.canvas",
+    "0_New_VAULT/Doing/Human To Machine/Open Interpreter",
+    "0_New_VAULT/Doing/Human To Machine",
+    "Screenshot 2024-06-14 at 22.48.15.png",
+    "Screenshot 2024-06-14 at 22.13.13.png",
+    "GPTsMemory",
+    "0_New_VAULT/How to Manage Your Obsidian Vault/STT Management/STT Project/Speech-To-Text_canvas.canvas",
+    "0_New_VAULT/Doing/Trading",
+    "0_New_VAULT/Doing/0_Under Process Tasks Overview/Tasks By Hastags.canvas",
+    "0_New_VAULT/Doing/Job search/Emploi Public",
+    "0_New_VAULT/Doing/Job search/Freelance",
+    "1_LEGACY_HSTORIC_VAULT/Perso/Screenshot 2024-06-13 at 00.00.09.png",
+    "1_LEGACY_HSTORIC_VAULT/Perso/Screenshot 2024-06-12 at 23.43.27 1.png",
+    "1_LEGACY_HSTORIC_VAULT/Perso/Screenshot 2024-06-12 at 23.43.27.png",
+    "1_LEGACY_HSTORIC_VAULT/𖡄💿💿⌗𖡄𖡄KB𖡄/USR/Me✅/Personae/User Personae Canvas.canvas",
+    "1_LEGACY_HSTORIC_VAULT/𖡄💿💿⌗𖡄𖡄KB𖡄/USR/Me✅/Personae/😇User_KB_Canva.canvas",
+    "1_LEGACY_HSTORIC_VAULT/𖡄💿💿⌗𖡄𖡄KB𖡄/TECH/Tools/Obsidian/Plugins/obsidian_plugins_tasks/Obsidian Tasks Canvas.canvas",
+    "1_LEGACY_HSTORIC_VAULT/Tech🪐⚛️🧚🦄⚡️🧚✨/🧠🧚✨🦄AI✨🦄🧠🧚✨🦄/AGI/AGI_KB/Ressources/Datasets/User Data/AGI_Ressources_KB_User.canvas",
+    "1_LEGACY_HSTORIC_VAULT/𖡄💿💿⌗𖡄𖡄KB𖡄/😇User_KB_Canva.canvas",
+    "𖡄💿💿⌗𖡄𖡄KB𖡄/USR/Personae.canvas"
+  ]
+}
